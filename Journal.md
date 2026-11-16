@@ -29,3 +29,11 @@ I created a reusable GameItem component and used `.map()` to display each game.
 # Journal Prompt:
 
 JSX lets me write HTML-like code inside JavaScript. Props allow components to receive different game data and be reused.
+
+# Phase 4
+
+I exported my game data and functions from logic.js and imported them into App.jsx to display only favorite games.
+
+# Journal Prompt:
+
+The main challenge was connecting the files correctly. I checked the imports and verified that only favorite games appeared.
