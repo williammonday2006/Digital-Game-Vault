@@ -37,3 +37,11 @@ I exported my game data and functions from logic.js and imported them into App.j
 # Journal Prompt:
 
 The main challenge was connecting the files correctly. I checked the imports and verified that only favorite games appeared.
+
+# Phase 5
+
+I tested the application by adding a new game and changing its favorite status. Everything worked as expected.
+
+# Journal Prompt:
+
+I didn't encounter any major bugs during testing. The application correctly displays favorite games using the filter function.
