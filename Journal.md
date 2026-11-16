@@ -13,3 +13,11 @@ I used `.filter()` to find favorite games and `.map()` to extract titles.
 # Journal Prompt:
 
 These functions are abstractions because they simplify common tasks without needing a manual loop.
+
+# Phase 2
+
+I created a React project using Vite, installed its dependencies, and updated the page title.
+
+# Journal Prompt:
+
+I was surprised by how quickly Vite installed everything. `.gitignore` prevents unnecessary files like `node_modules` from being committed.
