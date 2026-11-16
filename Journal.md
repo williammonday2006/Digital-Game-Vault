@@ -21,3 +21,11 @@ I created a React project using Vite, installed its dependencies, and updated th
 # Journal Prompt:
 
 I was surprised by how quickly Vite installed everything. `.gitignore` prevents unnecessary files like `node_modules` from being committed.
+
+# Phase 3
+
+I created a reusable GameItem component and used `.map()` to display each game.
+
+# Journal Prompt:
+
+JSX lets me write HTML-like code inside JavaScript. Props allow components to receive different game data and be reused.
